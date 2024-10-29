@@ -1,4 +1,4 @@
-# marcapinta
+# Repositorio 1 del Curso de Git
 Primer repositorio creado en GitHub
 
 ## descripción
